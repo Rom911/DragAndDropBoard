@@ -1,4 +1,8 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Test task Drag and drop
+1. [DEMO LINK](https://rom911.github.io/DragAndDropBoard/)
+1. Задание на Юниора
+1. Нужно реализовать страницу с функциональностью Трелло Боарда: trello.com
+1. 2 Колонки - В работе, Сделано
+1. Возможность добавлять, удалять, редактировать и перетягивать таски
+1. Возможность Отменять / Повторять действие ctrl+z ctrl+y
+1. Любой фреймворк или нативный js
